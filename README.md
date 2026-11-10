@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Brahmini!
 
-<!--
-**brahmini0610/brahmini0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Artificial Intelligence and Data Science Student**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science at St. Joseph College of Engineering.
+- 💻 Interested in programming, technology and problem-solving.
+- 🤖 Passionate about Artificial Intelligence and its real-world applications.
+- 🌱 Continuously learning new technologies and improving my technical skills.
+- 🎯 Aspiring Data Scientist.
+
+## 🛠️ Technical Skills
+
+- Python
+- SQL
+- C Programming (Currently Learning)
+
+## 🚀 Areas of Interest
+
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Data Analytics
+- Software Development
+
+## 📂 My Projects
+
+- **Smart Study Planner** – A student-focused project concept designed to organise study schedules, assignments and subject priorities.
+- **Programming Practice** – Coding exercises and practice programs using Python and C.
+
+## 🌱 Currently Learning
+
+- C Programming
+- Python Programming
+- SQL
+- Fundamentals of Artificial Intelligence and Data Science
+
+## ✨ My Goal
+
+To continuously learn, explore new technologies and develop innovative solutions using Artificial Intelligence and Data Science.
